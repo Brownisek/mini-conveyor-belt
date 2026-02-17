@@ -18,4 +18,4 @@ The conveyor is still in development, so expect frequent changes to the models a
 - **Flexible belt material**
   I used a rubber tourniquet, but any thin, flexible rubber strap should work.
 
-
+Files and Images [here](https://github.com/Brownisek/mini-conveyor-belt/tree/Conveyor-files)
